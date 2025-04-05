@@ -1,0 +1,65 @@
+<!DOCTYPE html><html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Para la mujer de mis ojos</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(to right, #ffd1dc, #ffe6f0);
+      color: #4a4a4a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+    .card {
+      background-color: white;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+      max-width: 600px;
+    }
+    h1 {
+      color: #ff3366;
+      margin-bottom: 20px;
+    }
+    p {
+      line-height: 1.6;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Para la mujer de mis ojos</h1>
+    <p>
+      Hola mi cachetonaaa hermosa<br><br>
+      Solo quería recordarte algo muy importante<br>
+      Te amo demasiado<br>
+      Eres la mujer de mis ojos mi todo mi razón de ser<br>
+      Desde que llegaste a mi vida todo cambió para bien<br>
+      No hay un solo día en el que no piense en ti<br>
+      Eres única y especial<br>
+      Y no hay nadie que se compare contigo<br><br>Tú me perteneces por siempre y yo soy completamente tuyo<br>
+  No importa lo que pase ni el tiempo que corra<br>
+  Mi amor por ti es eterno<br>
+  Eres mi reina mi amor bonito mi cachetona preciosa<br>
+  La que me roba sonrisas con solo aparecer en mi mente<br><br>
+
+  Te amo tanto que no me alcanzan las palabras<br>
+  Tanto que siento que el corazón se me sale de tanto amor<br>
+  Solo quiero que lo sepas siempre<br>
+  Eres mi todo y no hay vuelta atrás<br>
+  Te amo hoy mañana y siempre<br><br>
+
+  Con todo mi amor<br>
+  Tu persona que no puede dejar de pensar en ti
+</p>
+
+  </div>
+</body>
+</html>
